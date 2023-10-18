@@ -15,4 +15,4 @@ made by [@adldotori](https://github.com/adldotori)
 1. Run `main.py`: You can get `result.csv`.
 2. Run `plot.py`: You can get `result.png`.
 
-[![Results](./newplot.png)]()
+[![Results](./result.png)]()
