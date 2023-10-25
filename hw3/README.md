@@ -10,10 +10,8 @@
 
 1. Run `main.ipynb`: You can get everything.
 
-### Policy evaluation
+### Results
 
-[![Results](./images/policy_evaluation.png)]()
-
-### Value iteration
-
-[![Results](./images/value_iteration.png)]()
+| Policy evaluation | Value iteration |
+| --- | --- |
+| ![Results](./images/policy_evaluation.png) | ![Results](./images/value_iteration.png) |
